@@ -1,7 +1,9 @@
 Gerenciamento de biblioteca 🚀
+
 Software para gestão bibliotecária que automatiza o controle de exemplares e o monitoramento de prazos de empréstimos utilizando a linguagem C.
 
 📌 Sobre o Projeto
+
 Esse projeto foi criado para resolucionar uma atividade da faculdade na matéria de Linguagem e Técnicas de Programação.
 
 🛠️ Tecnologias Utilizadas
